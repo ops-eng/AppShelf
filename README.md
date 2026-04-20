@@ -3,7 +3,7 @@
 # 🚀 SimpleLaunchpad  
 ### A fast, elegant macOS launcher that opens your favorite apps from one clean, focused grid.
 
-<img src="images/hero.png" width="820" alt="SimpleLaunchpad Screenshot"/>
+<img src="images/images/Screenshot 2026-04-20 at 18.59.42.png" width="820" alt="SimpleLaunchpad Screenshot"/>
 
 ---
 
