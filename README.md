@@ -3,7 +3,7 @@
 # 🚀 SimpleLaunchpad  
 ### A fast, elegant macOS launcher that opens your favorite apps from one clean, focused grid.
 
-![SimpleLaunchpad Screenshot](images/Screenshot1.png)
+![SimpleLaunchpad Screenshot](images/AppStore_Desktop_Light.png)
 
 ---
 
@@ -99,5 +99,4 @@ Built with care by **Efthymios Tampouris**.
 
 ---
 
-## 📦 Repository Structure (recommended)
-
+![SimpleLaunchpad Screenshot](images/AppStore_desktop_v.png)
