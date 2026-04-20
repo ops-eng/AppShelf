@@ -28,6 +28,8 @@ SimpleLaunchpad gives you instant access to your essential apps—without Dock c
 - ⏱️ **Idle auto‑hide** option  
 - 🌍 **Localized in 16 languages**
 
+![SimpleLaunchpad Screenshot](images/Screenshot1.png)
+
 ---
 
 ## 💎 Free vs Pro
